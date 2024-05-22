@@ -1,0 +1,51 @@
+body{
+    background-color: teal;
+    font-family: fantasy;
+    color: cyan;
+}
+
+h1{
+    font-family: Impact; 
+    border: 20px ridge cyan;
+}
+
+button{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+a, button, img, iframe, ol{
+    border: 10px ridge blue;
+    background-color: aqua;
+    padding: 10px;
+    margin: 30px;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+
+.something{
+    font-size: 50px;
+}
+
+ol{
+    color: blue;
+    padding-left: 50px;
+    height: auto;
+    width: 100px;
+}
+
+li:hover{
+    background-color: white;
+}
+
+#unique{
+    font-size: 20px;
+}
+
+table, th, td{
+    border: 5px ridge blue;
+    background-color: cyan;
+    color:blue;
+    font-family:Impact;
